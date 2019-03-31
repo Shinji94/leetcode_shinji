@@ -1,3 +1,3 @@
 # leetcode_shinji
 leetcode solution 
-STARS :2019-3-31
+STARTS :2019-3-31
